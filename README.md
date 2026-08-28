@@ -1,49 +1,92 @@
-# Hi there, I'm Ursula Immaculate 👋 
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&width=500&lines=Software+Developer;Network+Engineer;Certified+Virtual+Assistant;Mobile+%26+Web+App+Builder" alt="Typing SVG" />
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,10&height=220&section=header&text=URSULA%20IMMACULATE&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
----
+<!-- TYPING TITLE -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Software+Developer+%26+Network+Tech;%F0%9F%93%B1+Mobile+%26+Web+App+Architect;%F0%9F%A4%96+Automation+%26+Bot+Developer;%F0%9F%8E%AF+Certified+Virtual+Assistant" alt="Typing SVG" />
+  </a>
+</div>
 
-### 💻 Tech Stack & Tools
-
-**Languages & Core Tech**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Developer Tools & Platforms**
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Networking-12557A?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-- 📱 **RouteFinderKE** — Mobile transport & passenger safety application designed to simplify navigation and enhance commuter awareness.
-- 🤖 **North-Star & Automation Services** — Intelligent support bots and webhook integration services for seamless event workflows.
--     **solstice kiosk service** -Solstice Events Co. Asynchronous Kiosk Check-In & Webhook Service
-
----
-
-### 📈 GitHub Stats
+<br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MACCUE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MACCUE's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACCUE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=MACCUE&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### ⚡ Technical Arsenal
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ursula-immaculate-b6391328b/
-- 📧 **Email:** ursulaimmaculate8@gmail.com
-- 🌐 **Portfolio:** to be updated soon
+<div align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br/>
+
+  <!-- Developer & Network Tools -->
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-12557A?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### 🛸 Key Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> RouteFinderKE</h3>
+      <p>A passenger safety and transport mobile navigation app designed for real-time routing, commuter awareness, and seamless transit tracking.</p>
+      <p align="center"><code>Java</code> • <code>Android Studio</code> • <code>UI/UX</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center"> North-Star & Automation</h3>
+      <p>Custom intelligent bot services and automated webhook pivot systems for streamlined customer support and automated event workflows.</p>
+      <p align="center"><code>Node.js</code> • <code>Webhooks</code> • <code>APIs</code></p>
+    </td>
+       <td width="50%">
+      <h3 align="center">  **solstice kiosk service**</h3>
+      <p> -Solstice Events Co. Asynchronous Kiosk Check-In & Webhook Service</p>
+      <p align="center"><code>Node.js</code> • <code>Webhooks</code> • <code>APIs</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+###  Performance & Analytics
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MACCUE&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACCUE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MACCUE&theme=radical&hide_border=true" alt="Commit Streak" />
+</p>
+
+---
+
+### 💬 Daily Tech Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,10&height=100&section=footer" width="100%" />
+</p>
