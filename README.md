@@ -1,9 +1,7 @@
-<!-- HEADER BANNER: Dynamic Neon Gradient Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30,40&height=240&section=header&text=URSULA%20IMMACULATE&fontSize=50&fontColor=ffffff&animation=twinkling&desc=SOFTWARE%20ENGINEER%20%7C%20NETWORK%20TECH&descSize=16&descAlignDY=15" width="100%" />
 </p>
 
-<!-- TYPING TITLE -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Software+Developer+%26+Network+Tech;%F0%9F%93%B1+Mobile+%26+Web+App+Architect;%F0%9F%A4%96+Automation+%26+Bot+Developer;%F0%9F%8E%AF+Certified+Virtual+Assistant" alt="Typing SVG" />
@@ -20,10 +18,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-###  Technical Arsenal
+### ⚡ Technical Arsenal
 
 <div align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -33,7 +30,6 @@
   
   <br/>
 
-  <!-- Developer & Network Tools -->
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -46,40 +42,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-###  Key Projects
-# 📱 RouteFinderKE
+### 🛸 Key Projects
 
-> A passenger safety and transit navigation mobile app built to provide real-time route insights and enhance commuter safety across public transport routes.
-
----
-
-## ✨ Features
-* **Real-Time Route Tracking:** Helps passengers trace navigation paths during transit.
-* **Passenger Safety Alerts:** Keeps commuters aware of route updates and safety statuses.
-* **Intuitive UI:** Clean interface tailored for quick on-the-go checks.
-
-## 🛠️ Tech Stack & Architecture
-* **Language:** Java
-* **IDEs & Tools:** Android Studio, Figma (UI/UX)
-* **Version Control:** Git & GitHub
-
-## 🏁 Quick Start & Installation
-
-```bash
-# Clone the repository
-git clone [https://github.com/MACCUE/RouteFinderKE.git](https://github.com/MACCUE/RouteFinderKE.git)
-
-# Open the project folder in Android Studio and run it on an emulator or device!
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"> RouteFinderKE</h3>
+      <h3 align="center">📱 RouteFinderKE</h3>
       <p align="center">A passenger safety and transport mobile navigation app designed for real-time routing, commuter awareness, and seamless transit tracking.</p>
       <br/>
       <p align="center"><code>Java</code> • <code>Android Studio</code> • <code>UI/UX</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"> North-Star & Automation</h3>
+      <h3 align="center">🤖 North-Star & Automation</h3>
       <p align="center">Custom intelligent bot services and automated webhook pivot systems for streamlined customer support and automated event workflows.</p>
       <br/>
       <p align="center"><code>Node.js</code> • <code>Webhooks</code> • <code>APIs</code></p>
@@ -87,7 +61,7 @@ git clone [https://github.com/MACCUE/RouteFinderKE.git](https://github.com/MACCU
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <h3 align="center"> Solstice Kiosk Service</h3>
+      <h3 align="center">⚡ Solstice Kiosk Service</h3>
       <p align="center">Solstice Events Co. Asynchronous Kiosk Check-In & Webhook Service</p>
       <br/>
       <p align="center"><code>Node.js</code> • <code>Webhooks</code> • <code>APIs</code></p>
@@ -98,8 +72,7 @@ git clone [https://github.com/MACCUE/RouteFinderKE.git](https://github.com/MACCU
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
-<!-- RECENT_ACTIVITY:START -->
-<!-- RECENT_ACTIVITY:END -->
+
 ### 📊 Performance & Analytics
 
 <p align="center">
