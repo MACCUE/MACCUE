@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Software+Developer+%26+Network+Tech;%F0%9F%93%B1+Mobile+%26+Web+App+Architect;%F0%9F%A4%96+Automation+%26+Bot+Developer;%F0%9F%8E%AF+Certified+Virtual+Assistant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Software+Developer+%26+Network+Tech;Mobile+%26+Web+App+Architect;Automation+%26+Bot+Developer;Certified+Virtual+Assistant" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-### ⚡ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -42,18 +42,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-### 🛸 Key Projects
+### Key Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📱 RouteFinderKE</h3>
+      <h3 align="center">RouteFinderKE</h3>
       <p align="center">A passenger safety and transport mobile navigation app designed for real-time routing, commuter awareness, and seamless transit tracking.</p>
       <br/>
       <p align="center"><code>Java</code> • <code>Android Studio</code> • <code>UI/UX</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 North-Star & Automation</h3>
+      <h3 align="center">North-Star & Automation</h3>
       <p align="center">Custom intelligent bot services and automated webhook pivot systems for streamlined customer support and automated event workflows.</p>
       <br/>
       <p align="center"><code>Node.js</code> • <code>Webhooks</code> • <code>APIs</code></p>
@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
-      <h3 align="center">⚡ Solstice Kiosk Service</h3>
+      <h3 align="center">Solstice Kiosk Service</h3>
       <p align="center">Solstice Events Co. Asynchronous Kiosk Check-In & Webhook Service</p>
       <br/>
       <p align="center"><code>Node.js</code> • <code>Webhooks</code> • <code>APIs</code></p>
@@ -70,30 +70,4 @@
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-### 📊 Performance & Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MACCUE&show_icons=true&theme=cyberpunk&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACCUE&layout=compact&theme=cyberpunk&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MACCUE&theme=cyberpunk&hide_border=false" alt="Commit Streak" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-### 💬 Daily Tech Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberpunk" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30,40&height=120&section=footer" width="100%" />
-</p>
+  <img src="
