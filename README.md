@@ -47,7 +47,29 @@
 </p>
 
 ###  Key Projects
+# 📱 RouteFinderKE
 
+> A passenger safety and transit navigation mobile app built to provide real-time route insights and enhance commuter safety across public transport routes.
+
+---
+
+## ✨ Features
+* **Real-Time Route Tracking:** Helps passengers trace navigation paths during transit.
+* **Passenger Safety Alerts:** Keeps commuters aware of route updates and safety statuses.
+* **Intuitive UI:** Clean interface tailored for quick on-the-go checks.
+
+## 🛠️ Tech Stack & Architecture
+* **Language:** Java
+* **IDEs & Tools:** Android Studio, Figma (UI/UX)
+* **Version Control:** Git & GitHub
+
+## 🏁 Quick Start & Installation
+
+```bash
+# Clone the repository
+git clone [https://github.com/MACCUE/RouteFinderKE.git](https://github.com/MACCUE/RouteFinderKE.git)
+
+# Open the project folder in Android Studio and run it on an emulator or device!
 <table>
   <tr>
     <td width="50%" valign="top">
