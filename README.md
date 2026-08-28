@@ -20,7 +20,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-### ⚡ Technical Arsenal
+###  Technical Arsenal
 
 <div align="center">
   <!-- Languages -->
@@ -46,18 +46,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-### 🛸 Key Projects
+###  Key Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📱 RouteFinderKE</h3>
+      <h3 align="center"> RouteFinderKE</h3>
       <p align="center">A passenger safety and transport mobile navigation app designed for real-time routing, commuter awareness, and seamless transit tracking.</p>
       <br/>
       <p align="center"><code>Java</code> • <code>Android Studio</code> • <code>UI/UX</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 North-Star & Automation</h3>
+      <h3 align="center"> North-Star & Automation</h3>
       <p align="center">Custom intelligent bot services and automated webhook pivot systems for streamlined customer support and automated event workflows.</p>
       <br/>
       <p align="center"><code>Node.js</code> • <code>Webhooks</code> • <code>APIs</code></p>
